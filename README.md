@@ -1,10 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
 <style>
   .titulo {
       color: red;
   }
 </style>
-
-<span class="titulo">Hi there</span> 👋
+</head>
+<body>
+  <span class="titulo">Hi there</span> 👋
+</body>
+</html>
 
 <!--
 **ivo-petronio/ivo-petronio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
